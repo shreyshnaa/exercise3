@@ -1,0 +1,43 @@
+/*shreshna tamrakar , 2024/07/17*/
+
+body {
+	color: #000000;
+	background-color: #336699;
+	font-family: Calibri, Arial, sans-serif;
+}
+
+main {
+	width: 960px;
+	margin: 0 auto 0 auto;
+}
+
+h1 {
+	color: #FFFFFF;
+}
+
+footer {
+	font-size: .70em;
+	text-align: center;
+	margin-top: 2em;
+}
+
+img {
+	max-width: 100%;
+}
+
+ul {
+	padding: 0;
+}
+
+li {
+	padding: 1%;
+	margin: 1%;
+	color: #FFFFFF;
+	list-style-type: none;
+	text-decoration: none;
+}
+li a {
+	color:#FFFFFF;
+	text-decoration: none;
+	list-style-type: none;
+}
